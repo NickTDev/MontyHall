@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MontyHallProblem</string>
+    <string name="announce_text">A Grand Prize Lies Behind One of These Doors, Start by Choosing One</string>
+    <string name="removed_door">One door that does not have the prize has been revealed, you may either click the same door to keep your choice or the other door to switch.</string>
+    <string name="win_text">Congrats! You have chosen the correct door!</string>
+    <string name="lose_text">Nope! That was unfortunately the incorrect door...</string>
+    <string name="reset">Reset</string>
+</resources>
